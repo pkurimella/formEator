@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pkurimella/formEator/issues"
   },
-  "homepage": "https://github.com/pkurimella/formEator"
+  "homepage": "https://github.com/pkurimella/formEator",
+  "dependencies": {
+    "ejs": "^1.0.0"
+  }
 }
